@@ -28,7 +28,7 @@
 
 ## 유튜브 시연영상(클릭 시 시청)
 <p align="center">
-[![Video Label](http://img.youtube.com/vi/MNcq4fuzcE0/0.jpg)](https://MNcq4fuzcE0?t=0s)
+[![Video Label](http://img.youtube.com/vi/MNcq4fuzcE0/0.jpg)](https://youtu.be/MNcq4fuzcE0)
 </
 
 
