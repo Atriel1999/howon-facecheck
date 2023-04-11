@@ -29,8 +29,8 @@
 ## 유튜브 시연영상(클릭 시 시청)
 [![Video Label](http://img.youtube.com/vi/MNcq4fuzcE0/0.jpg)](https://youtu.be/MNcq4fuzcE0)
 
-
-##### last is the Android Client folder and face_recog is Python server
+</br></br></br>
+##### folder name 'last' is the Android Client folder and 'face_recog' is Python server
 ##### You need Python 3.8.2 version and pip3 install face-recognition and pymysql to exceed program
 ##### Ubuntu is recommend for Python server
 
