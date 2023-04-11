@@ -2,7 +2,7 @@
 ##### 애플리케이션 명은 호원대 출석앱 줄여서 '호출'입니다.
 <p align="center">
 <img src=https://user-images.githubusercontent.com/118334518/231158946-c37dc8fb-5eb1-4a99-81cf-1ecfc4b26474.png width="50%" height="50%"> </p>
-</br>
+</br></br>
 
 # <span style="color:yellow">안드로이드 클라이언트</span>
 ##### + 안드로이드 클라이언트에서는 Cameara2 API, Google ML kit Face Detection, TTS등의 기술을 사용하였습니다.
