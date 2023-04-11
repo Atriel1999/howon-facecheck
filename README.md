@@ -5,7 +5,7 @@
 </br></br>
 
 # <span style="color:yellow">안드로이드 클라이언트</span>
-##### + 안드로이드 클라이언트에서는 Cameara2 API, Google ML kit Face Detection, TTS등의 기술을 사용하였습니다.
++ #####  안드로이드 클라이언트에서는 Cameara2 API, Google ML kit Face Detection, TTS등의 기술을 사용하였습니다.
 ##### + 교수 사용자는 본인의 강의를 새로 등록 or 로그인 한 후 카메라 출결 시작, 날짜별 출결확인이 가능합니다.
 ##### + 학생 사용자는 기본적인 정보와 본인의 사진을 입력한뒤 교수 사용자가 등록한 강의 번호를 받아서 본인의 출석정보를 확인할 수 있습니다.
 ##### + Face Detection을 이용해 카메라에서 얼굴이 인식될때 서버에 사진정보를 Crop해서 전송함
