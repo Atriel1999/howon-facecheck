@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:layout_weight="4"
+    android:weightSum="10">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="당신은 누구인가요?"
+        android:textSize="50dp"
+        android:textStyle="bold"
+        android:textColor="#F24726"
+        android:gravity="center"
+        android:layout_weight="6">
+    </TextView>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="4"
+        android:orientation="vertical">
+
+        <Button
+            android:id="@+id/btn_student"
+            android:layout_width="250dp"
+            android:layout_height="150dp"
+            android:layout_gravity="center_horizontal"
+            android:background="@drawable/student_button"
+            android:text="학생"
+            android:textColor="#ffffff"
+            android:textSize="40dp"
+            android:textStyle="bold"
+            android:layout_marginBottom="50dp"></Button>
+
+        <Button
+            android:id="@+id/btn_professor"
+            android:layout_width="250dp"
+            android:layout_height="150dp"
+            android:layout_gravity="center_horizontal"
+            android:background="@drawable/professor_button"
+            android:text="교수(관리자)"
+            android:textColor="#ffffff"
+            android:textSize="40dp"
+            android:textStyle="bold"></Button>
+
+
+    </LinearLayout>
+
+</LinearLayout>

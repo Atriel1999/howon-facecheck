@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "294574860930",
+    "project_id": "howon-facedetect",
+    "storage_bucket": "howon-facedetect.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:294574860930:android:61f86f66e42cdf8765229b",
+        "android_client_info": {
+          "package_name": "com.example.test"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "294574860930-nbokggbbouav8d71l4blpi9occ3ca24t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.test",
+            "certificate_hash": "50e34181077b791ecb43bc52f73939cfc1ed3e23"
+          }
+        },
+        {
+          "client_id": "294574860930-len25mr3jjqct3vsb0la1c7ot6jvk3ue.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDe3IuoGbVrSf5SElQgorgk2m81FHY3xuY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "294574860930-len25mr3jjqct3vsb0la1c7ot6jvk3ue.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".camera_prof"
+    android:orientation="vertical">
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <ImageButton
+            android:id="@+id/take_photo"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@android:drawable/ic_menu_camera"
+            />
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="카메라 멈췄을때"
+            android:id="@+id/restart_btn"
+            ></Button>
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="출석 시작"
+            android:id="@+id/starting_btn"
+            ></Button>
+
+        <EditText
+            android:id="@+id/timeset"
+            android:layout_width="135dp"
+            android:layout_height="30dp"
+            android:background="@drawable/back"
+            android:inputType="number"
+            android:hint="출석시간(초) 입력"
+            ></EditText>
+
+
+
+    </LinearLayout>
+
+
+    <ImageView
+        android:layout_width="100dp"
+        android:layout_height="150dp"
+        android:src="@mipmap/ic_launcher"
+        android:id="@+id/imagefree"
+        android:layout_gravity="center" />
+
+
+    <TextureView
+        android:layout_width="300dp"
+        android:layout_height="300dp"
+        android:layout_gravity="center"
+        android:layout_margin="20dp"
+        android:id = "@+id/cameraTextureView">
+
+    </TextureView>
+
+    <Button
+        android:layout_width="150dp"
+        android:layout_height="60dp"
+        android:layout_gravity="center"
+        android:layout_marginTop="50dp"
+        android:text="뒤로 가기"
+        android:id="@+id/btn_back"
+        ></Button>
+
+</LinearLayout>

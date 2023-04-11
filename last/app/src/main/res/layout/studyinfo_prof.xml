@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:opencv="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:weightSum="10"
+    android:layout_weight="4">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="cpu"
+        android:textSize="50dp"
+        android:textStyle="bold"
+        android:textColor="#000000"
+        android:layout_weight="1"
+        android:background="#e6e6e6"></TextView>
+
+    <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="장범환 교수님"
+            android:textColor="#000000"
+            android:textSize="20dp"
+            android:textStyle="bold"
+            android:layout_weight="1"
+            android:background="#e6e6e6"></TextView>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="강의코드"
+        android:textColor="#000000"
+        android:textSize="30dp"
+        android:layout_weight="1"
+        android:gravity="center"
+        android:background="#e6e6e6"></TextView>
+
+    <TextView
+        android:id ="@+id/lecture_code"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="11111"
+        android:textColor="#000000"
+        android:textSize="45dp"
+        android:textStyle="bold"
+        android:layout_weight="1"
+        android:gravity="center_horizontal"
+        android:background="#e6e6e6"></TextView>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="6"
+        android:orientation="vertical"
+        android:gravity="center">
+
+        <Button
+            android:id="@+id/btn_camera"
+            android:layout_width="250dp"
+            android:layout_height="150dp"
+            android:layout_marginBottom="20dp"
+            android:background="@drawable/camera_button"
+            android:text="카메라 출석"
+            android:textColor="#ffffff"
+            android:textSize="40dp"
+            android:textStyle="bold"></Button>
+
+        <Button
+            android:id="@+id/btn_manage"
+            android:layout_width="250dp"
+            android:layout_height="150dp"
+            android:background="@drawable/le_button"
+            android:text="강의 출석관리"
+            android:textColor="#ffffff"
+            android:textSize="40dp"
+            android:textStyle="bold"
+            android:layout_marginBottom="20dp"></Button>
+
+        <Button
+            android:id="@+id/btn_manageattend"
+            android:layout_width="250dp"
+            android:layout_height="150dp"
+            android:background="@drawable/lestudent_button"
+            android:text="로그아웃"
+            android:textColor="#ffffff"
+            android:textSize="40dp"
+            android:textStyle="bold"></Button>
+
+
+    </LinearLayout>
+</LinearLayout>
