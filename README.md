@@ -1,4 +1,6 @@
 ##### howon-facecheck는 휴대폰 카메라에 비춰지는 화면에 존재하는 사람의 얼굴을 인식 하고 자동으로 출결 체크를 해주는 애플리케이션 입니다.
+##### 애플리케이션 명은 호원대 출석앱 줄여서 '호출'입니다.
+![icon](https://user-images.githubusercontent.com/118334518/231158946-c37dc8fb-5eb1-4a99-81cf-1ecfc4b26474.png)
 </br>
 
 # <span style="color:yellow">안드로이드 클라이언트</span>
