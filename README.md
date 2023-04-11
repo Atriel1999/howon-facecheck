@@ -12,6 +12,8 @@
 ![image](https://user-images.githubusercontent.com/118334518/231157566-8da3ac72-4217-40fd-9b00-e16abbf590c9.png)
 
 
+
+
 ## <span style="color:yellow">파이썬 서버</span>
 ##### 소켓 통신으로 안드로이드와 연결된 파이썬 서버에서는 Open-CV, KNN CLassifier, pymysql등의 기술이 사용되었습니다.
 ##### 학생 사용자의 정보를 서버에 등록하고 출석시에 KNN Classifier 알고리즘을 사용해 미리 등록된 사진과 얼굴을 비교해 유사율을 측정 (80% 이상시 동일)
