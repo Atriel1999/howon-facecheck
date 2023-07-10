@@ -14,7 +14,7 @@ from mysql_connector import *
 result = ''
 idx = 0
 socket = socket
-
+#test
 #서버프로토콜 헤더(1바이트,문자전송0x01,4~7 출석이미지전송0x02~3 등록이미지전송0x03(아직안만듬)), 데이터길이 4bytes, 데이터(데이터길이bytes)
 def get_bytes_stream(sock, length):
     buf = b''
