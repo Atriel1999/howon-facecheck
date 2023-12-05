@@ -12,8 +12,8 @@
 + ##### Face Detection을 이용해 카메라에서 얼굴이 인식될때 서버에 사진정보를 Crop해서 전송함
 + ##### 출석이 확인됬을시에 TTS로 출석 여부를 음성으로 알려줍니다.
 + ##### 와이어 프레임(Wire frame) Link: https://miro.com/app/board/uXjVO6Z5cH8=/
-
-![image](https://user-images.githubusercontent.com/118334518/231157362-7d22dabd-f46e-41fe-a339-681de6080729.png)
++ 
+![capture](https://github.com/Atriel1999/howon-facecheck/assets/118334518/8bbd0e27-be1c-44e0-aa69-f2da59ea6fce)
 ![image](https://user-images.githubusercontent.com/118334518/231157446-af79839f-f3a6-421a-8482-02d3afa2a07a.png)
 ![image](https://user-images.githubusercontent.com/118334518/231157566-8da3ac72-4217-40fd-9b00-e16abbf590c9.png)
 
